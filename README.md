@@ -1,2 +1,2 @@
 # node-promises-with-bluebird
-Node ExpressJS demo application using Promises with Bluebird
+NodeJS demo for adding Bluebird promise library to add asynchrounous functionality.
